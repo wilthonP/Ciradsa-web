@@ -35,10 +35,10 @@
           <strong> Nosotros</strong>
         </a>
         <div class="dropdown-menu">
-          <a class="dropdown-item" href="#quienes-somos">Quienes Somos</a>
-          <a class="dropdown-item" href="#mision">Mision</a>
+          <a class="dropdown-item" href="#quienes-somos">Quiénes Somos</a>
+          <a class="dropdown-item" href="#mision">Misión </a>
           <a class="dropdown-item" href="#ventaja">Ventaja Competitiva</a>
-          <a class="dropdown-item" href="#politica">Política de Calidad</a>
+          <a class="dropdown-item" href="#politica">Política de la Calidad</a>
           <a class="dropdown-item" href="#certificaciones">Certificaciones</a>
         </div>
       </li>
