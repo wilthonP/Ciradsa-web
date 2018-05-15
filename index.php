@@ -670,12 +670,6 @@
 	          <div class="row">
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/amazonas.png">
-				        </div>
-				        	Banco Amazonas S.A.
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
 				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/fiduciaria.png">
 				        </div>
 				        	Fiduciaria Del Pacifico
