@@ -513,18 +513,6 @@
 	        	<div class="row">
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SALUD/SOLCA-MANABI.jpg">
-				        </div>
-				        	Laboratorio Solca Manabi
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SALUD/labo.jpg">
-				        </div>
-				        	Labomédica
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
 				        	<img class="logo-cliente" src="imagen/logos/clientes/SALUD/LABOMEDICA.jpg">
 				        </div>
 				        	Laboratorio Clínico
