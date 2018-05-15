@@ -155,9 +155,9 @@
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/cris.png">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/novacero.png">
 				        </div>
-				        	Cris Alimentos S.A.
+				        	Novacero
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
@@ -167,9 +167,9 @@
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/MAPRIPLASTEC.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/SACOPLAST.jpg">
 				        </div>
-				        	Mapriplastec Del Ecuador S.A.
+				        	Sacoplast
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
@@ -205,9 +205,9 @@
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/extracion.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/EUROXS.jpg">
 				        </div>
-				        	Extracción De Petroleo
+				        	Euroxs S.A.
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
@@ -235,39 +235,13 @@
 				        </div>
 				        	Grupo Garzozi
 	        		</div>
-	        		<div class="col-sm-2">
+				<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/EUROXS.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/panasa.gif">
 				        </div>
-				        	Euroxs
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/SACOPLAST.jpg">
-				        </div>
-				        	Sacoplast
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/novacero.png">
-				        </div>
-				        	Novacero
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/nestle.jpg">
-				        </div>
-				        	Nestlé Del Ecuador
-	        		</div>
-	        	</div>
-	        	<div class="row">
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/BRENNTAG.jpg">
-				        </div>
-				        	Brenntag
-	        		</div>
-	        	</div>
+				        	Papelera Nacional S.A.
+	        		</div>  
+	        	</div>	        	
 	        </div>
 	      </div>
 	    </div>
