@@ -45,7 +45,7 @@
 		<div id="quienes-somos" class="row">
 			<div class="col-sm-2"></div>
 			<div class="col-sm-8">
-				<p>&nbsp;</p><br><h4 class="text-center milky">¿Quienes Somos?</h4><p>&nbsp;</p>			
+				<p>&nbsp;</p><br><h4 class="text-center milky">¿Quiénes Somos?</h4><p>&nbsp;</p>			
 				<div class="row parrafo">
 					<div class="col-sm-6">
 						Ciradsa, es una compañía especializada en actividades de asesoría, capacitación y auditorías de sistemas de gestión relacionados con gestión de la calidad, ambiental, en seguridad y salud ocupacional, control y seguridad (BASC), seguridad de la información, continuidad del negocio; así como todos los servicios que implican mejora continua dentro de una organización: Mejora de Servicio al Cliente, Implementación Balanced Score Card, Gestión de Recursos Humanos, Análisis y mejora de procesos entre otros. El compromiso con nuestros clientes, ha 
@@ -60,7 +60,7 @@
 		<div id="mision" class="row">
 			<div class="col-sm-2"></div>
 			<div class="col-sm-8">
-				<p>&nbsp;</p><br><h4 class="text-center milky">Mision</h4>
+				<p>&nbsp;</p><br><h4 class="text-center milky">Misión</h4>
 				<img class="rounded-circle img-70" src="imagen/mision.jpg">
 				<p>&nbsp;</p>
 				<p class="parrafo">
@@ -84,7 +84,7 @@
 		<div id="politica" class="row">
 			<div class="col-sm-2"></div>
 			<div class="col-sm-8">
-				<p>&nbsp;</p><br><h4 class="text-center milky">Políticas de Calidad</h4>
+				<p>&nbsp;</p><br><h4 class="text-center milky">Política de la Calidad</h4>
 				<p class="parrafo politica">
 					C omprometidos con la Gestión del Mejoramiento Continuo de las organizaciones  y el cumplimiento<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;de los requisitos aplicables.
 				</p>
