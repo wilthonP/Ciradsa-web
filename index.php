@@ -268,9 +268,9 @@
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/segen.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/HUTODA.jpg">
 				        </div>
-				        	Seguen
+							Hutoda
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
@@ -280,9 +280,9 @@
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/segonza.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/AGUSEGPRO.jpg">
 				        </div>
-				        	Segonza
+							Agusegpro
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
@@ -309,18 +309,6 @@
 				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/NAUTISA.png">
 				        </div>
 							Nautisa
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/AGUSEGPRO.jpg">
-				        </div>
-							Agusegpro
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/HUTODA.jpg">
-				        </div>
-							Hutoda
 	        		</div>
 	        	</div>
 	        </div>
