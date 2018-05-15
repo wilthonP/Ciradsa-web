@@ -386,15 +386,15 @@
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/COMERCIO-EXTERIOR/agua.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/COMERCIO-EXTERIOR/DEPCONSA.jpg">
 				        </div>
-				        	Aquad’or – Exportación De Agua Splendor
+							Depconsa
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/COMERCIO-EXTERIOR/sunway.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/COMERCIO-EXTERIOR/NOE-SHIPPING.jpg">
 				        </div>
-				        	Sunway Group
+							Noe Shipping
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
@@ -410,24 +410,6 @@
 	        		</div>
 	        	</div>
 	        	<div class="row">
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/COMERCIO-EXTERIOR/DEPCONSA.jpg">
-				        </div>
-							Depconsa
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/COMERCIO-EXTERIOR/CEGACORP.jpg">
-				        </div>
-							CegaCorp
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/COMERCIO-EXTERIOR/NOE-SHIPPING.jpg">
-				        </div>
-							Noe Shipping
-	        		</div>
 				<div class="col-sm-2">
 	        			<div class="row">
 				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/BRENNTAG.jpg">
