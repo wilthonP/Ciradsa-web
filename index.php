@@ -645,12 +645,6 @@
 	        	<div class="row">
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/CONSTRUCCION/construdipro.png">
-				        </div>
-				        	Construdipro
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
 				        	<img class="logo-cliente" src="imagen/logos/clientes/CONSTRUCCION/SADE.jpg">
 				        </div>
 				        	Sade
@@ -659,7 +653,7 @@
 	        			<div class="row">
 				        	<img class="logo-cliente" src="imagen/logos/clientes/CONSTRUCCION/CIPORT.jpg">
 				        </div>
-				        	Ciport  (Cimentaciones Portuarias)
+				        	Cimentaciones Portuarias
 	        		</div>
 	        	</div>
 	        </div>
