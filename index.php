@@ -171,12 +171,12 @@
 				        </div>
 				        	Sacoplast
 	        		</div>
-	        		<div class="col-sm-2">
+				<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/ADILISA.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/panasa.gif">
 				        </div>
-				        	Aditivos Y Alimentos (Adilisa)
-	        		</div>
+				        	Papelera Nacional S.A.
+	        		</div> 
 	        		<div class="col-sm-2">
 	        			<div class="row">
 				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/DANAYMA.jpg">
@@ -234,13 +234,7 @@
 				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/garzozi.jpg">
 				        </div>
 				        	Grupo Garzozi
-	        		</div>
-				<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/panasa.gif">
-				        </div>
-				        	Papelera Nacional S.A.
-	        		</div>  
+	        		</div> 
 	        	</div>	        	
 	        </div>
 	      </div>
@@ -867,7 +861,7 @@
 	        			<div class="row">
 				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/ADILISA.jpg">
 				        </div>
-				        	Adilisa
+				        	Aditivos Y Alimentos (Adilisa)
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
