@@ -1,0 +1,194 @@
+body {
+      position: relative; 
+  }
+ .dropdown-item.active, .dropdown-item:active {
+    background-color: #01a2e4!important;
+}
+.separador{
+    width: 1px;
+    background-color: rgba(0,0,0,.5);
+}
+.section{
+	padding-top: 50px;
+	padding-bottom: 50px; 
+}
+.logo{
+	width: 30px;
+}
+.logo-ciradsa{
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+}
+.icon-redes{
+	width: 25px;
+	height: 25px;
+}
+.card-login {
+  max-width: 25rem;
+}
+.content-page{
+	padding-top: 4%;
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+}
+.timeline-twitter{
+	height: 500px;
+}
+.nosotros{
+	background:  linear-gradient(45deg, rgb(247, 255, 223) 0%, rgb(124, 239, 15) 150%);
+	box-shadow: 3px 0px 85px -8px rgba(0,0,0,0.35);
+}
+.n-servicios{
+	background: linear-gradient(#0294d2bf, #FFF); /* Standard syntax */
+}
+.parrafo{
+	text-align: justify;
+}
+p.politica:first-letter{
+	font-size: 200%;
+	color: #0989c0; font-weight: bold;
+}
+.contacto{
+	padding-right: 250px;
+	padding-left: 250px;
+}
+.inen{
+	padding-top: 16%;
+	padding-bottom: 16%;
+}
+.titulo-contacto{
+	padding: 20px;
+}
+.titulo-clientes{
+	color: #FFF;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.info-empresa{
+	color: white;
+	background-color: #002638bf/*#0294d2bf*/;
+	box-shadow: 3px 0px 85px -8px rgba(0,0,0,0.35);
+}
+.clientes{
+	box-shadow: 3px 0px 85px -8px rgba(0,0,0,0.35);
+	background-color: #0294d2bf;
+}
+.footer .container{
+	padding: 15px;
+}
+.map{
+	width: 100%;
+	height: 100%;
+}
+.img-70{
+	width: 70%
+}
+.group-img .row .col-sm-2 .row{
+    display: flex;
+    justify-content: center;
+}
+.logo-cliente{
+	width: 80%;
+	height: 90px;
+}
+.table td{
+	    border-top: none!important;
+}
+.effect-cliente{
+	top:60px;
+	position: relative;
+	opacity:0;
+}
+.frame-fbk{
+	border:none;
+	overflow:hidden;
+	max-width: 100%;
+	border-radius: 0.5rem;
+}
+#contacto{
+	padding-top: 10%;
+}
+.deg-contacto{
+	padding-right: 100px;
+	padding-left: 100px;
+	box-shadow: 3px 0px 85px -8px rgba(0,0,0,0.35);
+	background:  linear-gradient(to top, rgb(255, 255, 255) 0%, rgb(168, 234, 82) 80%);
+}
+
+.lista-servicios {
+    counter-reset: li; 
+    list-style: none; 
+    *list-style: decimal;
+    margin-bottom: 4em;
+}
+
+.lista-servicios li{
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    margin: .5em 0;
+    color: #444;
+    text-decoration: none;
+    border-radius: .3em;
+    transition: all .3s ease-out;   
+}
+
+.lista-servicios li:hover{
+    background: #eee;
+}
+
+.lista-servicios li:hover:before{
+    transform: rotate(360deg);  
+}
+
+.lista-servicios li:before{
+    content: counter(li);
+    counter-increment: li;
+    position: absolute; 
+    left: -1.3em;
+    top: 50%;
+    margin-top: -1.3em;
+    background: #87ceeb;
+    height: 2em;
+    width: 2em;
+    line-height: 2em;
+    border: .1em solid #fff;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 2em;
+    transition: all .3s ease-out;
+}
+.milky {
+  font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
+  text-transform: uppercase;
+  font-size: 40px;
+  color: #fcfdfb;
+  text-shadow: 0 8px 9px #c4b59d, 0px -2px 1px #00000000;
+  font-weight: bold;
+}
+.milky-blue{
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;;
+	text-transform: uppercase;
+	font-size: 50px;
+	color: #3fbdda;
+	padding-top: 2%;
+	text-shadow: 0 4px 9px #c4b59d, 0px -2px 1px #7d959c;
+	font-weight: bold;
+}
+.shadow-oscuro{
+	text-shadow: 0 8px 9px #847b6c, 0px -2px 1px #fff!important;
+}
+.carousel-titulo{
+	left: 37%!important;
+    right: 37%!important;
+    border-radius: 10px;
+    background-color: #00000026;
+}
+
+.curso{
+	width: 100%;
+	text-align: center;
+}
