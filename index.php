@@ -231,7 +231,7 @@
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/gazorti.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/garzozi.jpg">
 				        </div>
 				        	Grupo Garzozi
 	        		</div>
