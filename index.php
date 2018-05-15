@@ -971,7 +971,7 @@
 	  	<div class="col-sm-4">
 		  	<div class="row">
 		  		<p><strong>Oficina</strong><br><br>
-		  		593 04 2882796 - 0986579619<br>Guayaquil - Ecuador
+		  		+593 04 2959222 - 0986579619<br>e-mail: info@ciradsa.com<br>Guayaquil - Ecuador
 		  		</p>
 		  	</div>
 		  	<div class="row">
@@ -982,11 +982,6 @@
 		  	<div class="row">
 		  		<p><strong>Direccion</strong><br><br>
 		  		Av. Benjamin Carrión, Edificio City Office oficina 410,<br> Guayaquil 090511
-		  		</p>
-		  	</div>
-		  	<div class="row">
-		  		<p><strong>Contacto</strong><br><br>
-		  		e-mail: info@ciradsa.com<br>Teléfono: 042959222
 		  		</p>
 		  	</div>
 		  	<div class="row">	  	
