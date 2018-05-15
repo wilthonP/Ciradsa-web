@@ -440,6 +440,18 @@
 				        </div>
 							Noe Shipping
 	        		</div>
+				<div class="col-sm-2">
+	        			<div class="row">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/BRENNTAG.jpg">
+				        </div>
+				        	Brenntag
+	        		</div>
+					<div class="col-sm-2">
+	        			<div class="row">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/INDUSTRIA/MAPRIPLASTEC.jpg">
+				        </div>
+				        	Mapriplastec Del Ecuador S.A.
+	        		</div>
 	        	</div>	        	
 	        </div>
 	      </div>
