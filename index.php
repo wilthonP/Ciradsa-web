@@ -701,9 +701,9 @@
 	          <div class="row">
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/ELECTROGUAYAS.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/MISCELANEOS/PUERTO.png">
 				        </div>
-				        	Electroguayas
+				        	Consorcio Puerto Limpio
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
@@ -725,10 +725,10 @@
 	        		</div>
 	        		<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/MISCELANEOS/zapato.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/INTERAGUA.jpg">
 				        </div>
-				        	Zapatos Americanos
-	        		</div>
+				        	Interagua
+	        		</div>	 
 	        		<div class="col-sm-2">
 	        			<div class="row">
 				        	<img class="logo-cliente" src="imagen/logos/clientes/MISCELANEOS/britransformadores.jpg">
@@ -819,18 +819,12 @@
 				        </div>
 				        	Consorcio Tacom
 	        		</div>
-	        		<div class="col-sm-2">
+				<div class="col-sm-2">
 	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/SERVICIOS/INTERAGUA.jpg">
+				        	<img class="logo-cliente" src="imagen/logos/clientes/MISCELANEOS/diteca.jpg">
 				        </div>
-				        	Interagua
-	        		</div>
-	        		<div class="col-sm-2">
-	        			<div class="row">
-				        	<img class="logo-cliente" src="imagen/logos/clientes/MISCELANEOS/PUERTO.png">
-				        </div>
-				        	Consorcio Puerto Limpio
-	        		</div>
+				        	DITECA
+	        		</div> 
 	        	</div>
 	        </div>
 	      </div>
